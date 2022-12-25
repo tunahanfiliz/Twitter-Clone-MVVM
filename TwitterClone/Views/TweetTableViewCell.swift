@@ -55,7 +55,7 @@ class TweetTableViewCell: UITableViewCell {
 
     private let tweetTextContentLabel: UILabel = {
         let label = UILabel()
-         label.text = "eqwlşkklklekqlweklewqeklqwklqweeklwqklewqklqewlekqwşeqwklşqweklşweqlkklqweşlekqwşwklqeşlwkşeqlşweqşlqwelşkqwelşqwelşkqweklwelşkqwe"
+         label.text = "i am ios developer. ---------------------------------aaaaaaaaaaaa.......bbbbbbbb...c.cc.cc.c.c.c "
          label.translatesAutoresizingMaskIntoConstraints = false
         label.numberOfLines = 0
          return label

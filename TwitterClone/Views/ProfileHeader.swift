@@ -113,7 +113,7 @@ class ProfileHeader: UIView {
         label.translatesAutoresizingMaskIntoConstraints = false
         label.textColor = .secondaryLabel
         label.font = .systemFont(ofSize: 14, weight: .regular)
-        label.text = "Joined May 2021"
+        label.text = "Joined july 2021"
         return label
     }()
     
@@ -152,7 +152,7 @@ class ProfileHeader: UIView {
         let image = UIImageView()
         image.contentMode = .scaleAspectFill
         image.translatesAutoresizingMaskIntoConstraints = false
-        image.image = UIImage(named: "rabi")
+        image.image = UIImage(named: "1122")
         image.clipsToBounds = true
         return image
     }()
