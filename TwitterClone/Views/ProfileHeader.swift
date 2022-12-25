@@ -163,7 +163,7 @@ class ProfileHeader: UIView {
         image.layer.masksToBounds = true
         image.layer.cornerRadius = 40
         image.clipsToBounds = true
-        image.contentMode = .scaleAspectFill
+        
         //image.image = UIImage(systemName: "person")
         //image.backgroundColor = .yellow
         return image
